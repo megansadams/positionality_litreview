@@ -1,1 +1,1 @@
-# positionality_litreview
+# This repository contains the code by which we automated our literature review for this publication. We used this code to search the literature for papers proposing frameworks for reflecting on positionality and self-location within the research team. 
